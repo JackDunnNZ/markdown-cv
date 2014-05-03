@@ -9,7 +9,7 @@ pdf:   clean $(PDFS)
 html:  clean $(HTML)
 
 %.html: %.md
-	pandoc $< -S -t html -c cv.css -o $@
+	pandoc $< -S -s -t html -c cv.css -o $@
 
 %.pdf:  %.md
 	pandoc $< -S --template=default.latex -H header.tex -V papersize=a4paper -o $@
