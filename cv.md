@@ -111,7 +111,7 @@ Notable projects:
 ### Private Tuition (2008--14)
 
 -   Responsibility for planning and implementing a tuition programme for individual students within the community, primarily in Mathematics, Chemistry and Physics.
--   Testimonials available at www.jackdunn.org.
+-   Testimonials available at [www.jackdunn.org](www.jackdunn.org).
 
 ### Flying Note --- English Tutor (2012--13)
 
