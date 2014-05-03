@@ -18,8 +18,8 @@
 ### Technical Experience
 
 -   Successes experienced developing software at a commercial level for Google and Derceto.
--   Skilled with a variety of languages (C++, Python, JavaScript, GAMS, AMPL, Matlab)
--   Very fast to pick up new skills and languages and implement them effectively
+-   Skilled with a variety of languages (C++, Python, JavaScript, GAMS, AMPL, Matlab).
+-   Very fast to pick up new skills and languages and implement them effectively.
 
 ### Teamwork
 
@@ -47,11 +47,11 @@ Honours and awards:
 
 Honours and awards:
 
--   2013: Senior Scholar Award, Engineering Science --- Graduated top of class.
--   2013: Operations Research Society of NZ Young Practitioner's Prize --- Joint First Undergraduate.
--   2011--13: First in Paper Awards - Achieved highest score in 19 out of 23 papers taken.
--   2010--13: Dean's Honours List - Top 5% of Engineering cohort.
--   2011: Statistics New Zealand Undergraduate Prize for Excellence in Statistics.
+-   2013: Senior Scholar Award, Engineering Science --- Graduated top of class
+-   2013: Operations Research Society of NZ Young Practitioner's Prize --- Joint First Undergraduate
+-   2011--13: First in Paper Awards - Achieved highest score in 19 out of 23 papers taken
+-   2010--13: Dean's Honours List - Top 5% of Engineering cohort
+-   2011: Statistics New Zealand Undergraduate Prize for Excellence in Statistics
 -   2011: Department of Statistics – Certificate of Distinction in Theoretical Statistics
 -   2010: Faculty of Engineering Undergraduate Scholarship
 -   2010: Faculty of Engineering Kick-Start Scholarship
@@ -60,7 +60,7 @@ Awards not accepted:
 
 -   2013: Stanford Graduate Fellowship (2014--17)
 -   2013: UC Berkeley Fellowship for Graduate Study (2014--18)
--   2013: Georgia Institute of Technology William s. Green Fellowship (2014--18)
+-   2013: Georgia Institute of Technology William S. Green Fellowship (2014--18)
 -   2013: Fulbright Science and Innovation Graduate Award 
 
 ### Wellington College (2006--2009)
@@ -132,8 +132,8 @@ Notable projects:
 
 -   Tasked with resolving an issue with generation reserve procurement in the New Zealand electricity network.
 -   Conducted in-depth analysis of duality in mixed-integer programming for pricing purposes.
--   Joint winner of the ORSNZ Undergraduate Young Practitioner’s Prize, 2013
--   Open source implementation of algorithm used in pricing process available on [Github](https://github.com/jackdunnnz/knapsack-polytope-cutter)
+-   Joint winner of the ORSNZ Undergraduate Young Practitioner’s Prize, 2013.
+-   Open source implementation of algorithm used in pricing process available on [Github](https://github.com/jackdunnnz/knapsack-polytope-cutter).
 -   Publications available:
     -   [Thesis, 2013](http://www.epoc.org.nz/theses.html)
     -   [ORSNZ Conference Proceedings, 2013](https://secure.orsnz.org.nz/conf47/program/Papers/nzsaorsnz2013_submission_104.pdf)
@@ -144,7 +144,7 @@ Notable projects:
 
 Voluntary Services:
 
--   Developed a national rankings system for the international wargaming community running on Google App Engine. Currently operating in five countries (NZ, Australia, UK, USA and Canada)
+-   Developed a national rankings system for the international wargaming community running on Google App Engine. Currently operating in five countries (NZ, Australia, UK, USA and Canada).
 -   Responsible for organising and running tournaments.
 -   Administration of both web forums and club websites.
 -   Writing for a gaming blog that attracts around 1000 visitors per day.
@@ -160,11 +160,11 @@ Achievements:
 
 ### Google Student Ambassador (2013)
 
--   Plan and host events on behalf of Google on campus at the University of Auckland 
+-   Plan and host events on behalf of Google on campus at the University of Auckland.
 -   Promote Google products on campus, and act as a contact at the University for Google teams.
 
 ### University of Auckland --- Operations Research Students Association (2011)
 
--   Member of the Executive Committee
+-   Member of the Executive Committee.
 -   Responsible for maintaining the Association’s website and for all communication between the Executive Committee and the Part II students, including organisation of events for these students.
 
