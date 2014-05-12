@@ -47,7 +47,7 @@ Honours and awards:
 
 Honours and awards:
 
--   2013: Senior Scholar Award, Engineering Science --- Graduated top of class
+-   2013: Senior Scholar Award, Engineering Science --- Top of graduating Engineering class
 -   2013: Operations Research Society of NZ Young Practitioner's Prize --- Joint First Undergraduate
 -   2011--13: First in Paper Awards - Achieved highest score in 19 out of 23 papers taken
 -   2010--13: Dean's Honours List - Top 5% of Engineering cohort
